@@ -1,1 +1,2 @@
 # Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics
+In this Probability and Statistics project! 📊🔍 In this exciting journey, I get the chance to apply the concepts I've learned in probability theory and statistics to analyze a real-world dataset. This project is my opportunity to dive deep into the world of data analysis and gain practical experience with the tools and techniques I've been learning. 🚀
